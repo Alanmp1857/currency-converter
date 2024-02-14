@@ -6,5 +6,5 @@
 # Description
 Use currency converter to change money from one type to another. It helps you understand how much things cost in different countries.
 
-# Hosted using netlify
+# Hosted using Netlify
 https://currency-converter-v01.netlify.app/
